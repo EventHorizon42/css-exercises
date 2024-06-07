@@ -7,11 +7,11 @@
 
 div {
     background-color: red;
-    font-size: 22px;
+    font-size: 32px;
     font-weight: bold;
     text-align: center;
 }
-
+/*
 p {
     background-color:green;
 }
@@ -19,4 +19,4 @@ p {
 button {
     color: black;
     background-color: goldenrod;
-}
+} */
